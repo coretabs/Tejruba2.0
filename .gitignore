@@ -105,3 +105,6 @@ venv.bak/
 
 # virtual environments files
 venv
+
+# bash scripts
+*.sh
