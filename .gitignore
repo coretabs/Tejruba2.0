@@ -108,3 +108,8 @@ venv
 
 # bash scripts
 *.sh
+
+# django migration files
+accounts/migrations/*
+experiences/migrations/*
+
